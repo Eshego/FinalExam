@@ -1,6 +1,8 @@
 Michael Mouro - 100823687
 FINAL EXAM 
 
+The build is in the FinalExamBuild folder
+
 The player movement script just takes the players horizontal and vertical movement and transforms it based off a multiplication of the input and the speed. I believe the spotlight fits the scene well as it keeps focus on the player. I also designed the room as is to fit the scene provided having 2 walls, lava and a ground for the player to walk on alongside a furnace in the corner of the room.
 
 I made all the textures myself and chose to go with normal mapping in this instance. While I feel bump would have added extra charm to the wall I feel that normal mapping better fit the scene with my given texture.
